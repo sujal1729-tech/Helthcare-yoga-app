@@ -69,4 +69,4 @@ class Dashboard extends StatelessWidget {
       body: Center(child: Text('Welcome to Healthcare Yoga App')),
     );
   }
-}
+}Image.asset('assets/icons/my_icon.png', width: 120),
